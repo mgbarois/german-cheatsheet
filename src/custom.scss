@@ -1,0 +1,68 @@
+//Add overrides here
+// You can reference Bootstrap's documentation for the names of the available variables: https://getbootstrap.com/docs/4.1/getting-started/theming/#css-variables
+
+@import url("https://use.fontawesome.com/releases/v5.8.1/css/all.css");
+
+$theme-colors: (
+    "info": tomato,
+    "danger": teal
+);
+
+.infl {
+    font-weight: bold;
+    color: purple;
+}
+
+
+.sidebar li.nav-item >a.active, .sidebar li.nav-item > a.active:focus {
+    background-color: #9c27b0;
+    color: #fff;
+    box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(156, 39, 176, 0.4);
+    /*https://stackoverflow.com/questions/66921486/box-shadow-property-from-inspect*/
+}
+
+@media (max-width: 991px) {
+    .sidebar li.nav-item >a.nav-link, .sidebar li.nav-item > a.nav-link {
+        color: #fff;
+    }
+
+    .sidebar .logo a.simple-text.logo-normal {
+        margin-top: 1rem;
+        color: #fff;
+    }
+
+    #sidebar-drawer.drawer-open.sidebar {
+        transform: translate3d(0, 0, 0);
+        background-color: #fff;
+    }
+}
+
+
+div#popover-basic.fade.show.popover.bs-popover-right {
+    max-width: 900px;
+}
+
+#hamburger {
+    text-align: right;
+    position: fixed;
+    right:.5rem;
+    top:0;
+    width: 100%;
+    z-index:1033;
+    padding: .5rem;
+}
+#hamburger i {
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+// Keep this at the end of the file
+//@import '~bootstrap/scss/bootstrap.scss';
+@import '~material-dashboard/assets/scss/material-dashboard.scss'
+//You must prefix imports from node_modules with ~ as displayed above.
