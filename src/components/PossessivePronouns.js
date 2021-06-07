@@ -78,7 +78,7 @@ class PossessivePronouns extends React.Component {
             <Card>
                 <Card.Header className="card-header-primary">
                     <h4 className="card-title ">Possessive</h4>
-                    <p className="card-category">Pronouns</p>
+                    <p className="card-category">Test</p>
                 </Card.Header>
                 <Card.Body>
                     <Tabs

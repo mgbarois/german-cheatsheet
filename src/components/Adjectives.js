@@ -94,7 +94,7 @@ const Articles = () => {
 
                 <Col md="4" sm="12">
                     <Card>
-                        <Card.Header className="card-header-info">
+                        <Card.Header className="card-header-primary">
                             <h4 className="card-title">Simplified</h4>
                             <p className="card-category"></p>
                         </Card.Header>
@@ -198,7 +198,7 @@ const Articles = () => {
 
                 <Col md="4" sm="12">
                     <Card>
-                        <Card.Header className="card-header-info">
+                        <Card.Header className="card-header-primary">
                             <h4 className="card-title ">Simplified</h4>
                             <p className="card-category"></p>
                         </Card.Header>
@@ -306,7 +306,7 @@ const Articles = () => {
                 </Col>
                 <Col md="4" sm="12">
                     <Card>
-                        <Card.Header className="card-header-info">
+                        <Card.Header className="card-header-primary">
                             <h4 className="card-title ">Simplified</h4>
                             <p className="card-category"></p>
                         </Card.Header>

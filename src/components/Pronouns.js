@@ -15,7 +15,7 @@ const Pronouns = () => {
         <Card>
           <Card.Header className="card-header-primary">
             <h4 className="card-title ">Personal</h4>
-            <p className="card-category">Pronouns</p>
+            <p className="card-category"> Here is a subtitle for this table</p>
           </Card.Header>
           <Card.Body>
             <div className="table-responsive">
