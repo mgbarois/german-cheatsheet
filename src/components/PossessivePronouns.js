@@ -2,7 +2,12 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
+import Nav from 'react-bootstrap/Nav';
+
+
 import PossessivePronounsTable from './PossessivePronounsTable';
+import './PossessivePronouns.scss';
+
 
 class PossessivePronouns extends React.Component {
     constructor() {
@@ -76,30 +81,61 @@ class PossessivePronouns extends React.Component {
 
         return (
             <Card>
-                <Card.Header className="card-header-primary">
-                    <h4 className="card-title ">Possessive</h4>
-                    <p className="card-category">Pronouns</p>
+                <Card.Header id="pos-pro-card-header" className="card-header-primary">
+                    <div id="pos-pro-title">
+                        <h4 className="card-title ">Possessive</h4>
+                        <p className="card-category">Pronouns</p>
+                    </div>
+                    <div id="card-header-pills">
+                        <div class="nav-tabs-navigation">
+                            <div class="nav-tabs-wrapper">
+                                <Nav
+                                    className="nav nav-tabs"
+                                    defaultActiveKey='masc'
+                                    onSelect={(key => this.switchTabs(key))}>
+                                    <Nav.Item>
+                                        <Nav.Link eventKey="masc">Masc</Nav.Link>
+                                    </Nav.Item>
+                                    <Nav.Item>
+                                        <Nav.Link eventKey="fem">Fem</Nav.Link>
+                                    </Nav.Item>
+                                    <Nav.Item>
+                                        <Nav.Link eventKey="neut">Neut</Nav.Link>
+                                    </Nav.Item>
+                                </Nav>
+                            </div>
+                        </div>
+                    </div>
                 </Card.Header>
                 <Card.Body>
-                    <Tabs
-                        id="controlled-tab-example"
-                        onSelect={(key => this.switchTabs(key))}
-                    >
-                        <Tab eventKey="masc" title="Masc.">
                             <PossessivePronounsTable infl={this.state.infl} />
-                        </Tab>
-                        <Tab eventKey="fem" title="Fem.">
-                            <PossessivePronounsTable infl={this.state.infl} />
-                        </Tab>
-                        <Tab eventKey="neut" title="Neut.">
-                            <PossessivePronounsTable infl={this.state.infl} />
-                        </Tab>
-                        <Tab eventKey="plu" title="Plur.">
-                            <PossessivePronounsTable infl={this.state.infl} />
-                        </Tab>
-                    </Tabs>
                 </Card.Body>
             </Card>
+            // <Card>
+            //     <Card.Header className="card-header-primary">
+            //         <h4 className="card-title ">Possessive</h4>
+            //         <p className="card-category">Pronouns</p>
+            //     </Card.Header>
+            //     <Card.Body>
+            //         <Tabs
+            //             id="controlled-tab-example"
+            //             onSelect={(key => this.switchTabs(key))}
+            //         >
+            //             <Tab eventKey="masc" title="Masc.">
+            //                 <PossessivePronounsTable infl={this.state.infl} />
+            //             </Tab>
+            //             <Tab eventKey="fem" title="Fem.">
+            //                 <PossessivePronounsTable infl={this.state.infl} />
+            //             </Tab>
+            //             <Tab eventKey="neut" title="Neut.">
+            //                 <PossessivePronounsTable infl={this.state.infl} />
+            //             </Tab>
+            //             <Tab eventKey="plu" title="Plur.">
+            //                 <PossessivePronounsTable infl={this.state.infl} />
+            //             </Tab>
+            //         </Tabs>
+            //     </Card.Body>
+            // </Card>
         )
     }
 }

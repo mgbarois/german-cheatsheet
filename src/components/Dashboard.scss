@@ -1,0 +1,41 @@
+#dashboard {
+    .btn.lang-switcher {
+        padding: .5rem; 
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
+
+    .translation-input{}
+
+    #translation-section {
+        width: 60%;
+        margin:auto;
+    }
+
+    #translation-card-body {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+        min-height: 50vh;
+    }
+
+    #translation-input {
+        width: 80%;
+    }
+
+    #translation-button {
+        margin: 1rem;
+    }
+
+    #translation-table {
+        margin-top: 15px;
+    }
+
+    @media screen and (max-width: 768px) {
+        #translation-section {
+            width: 100%;
+        }
+        
+    }
+}

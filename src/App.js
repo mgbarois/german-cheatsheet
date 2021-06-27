@@ -16,6 +16,13 @@ import Prepositions from './components/Prepositions';
 // const closedToggle = {
 //   transform: "translate3d(260px, 0, 0)"
 // }
+const hamburgerToggleOpen = {
+  icon: 'fas fa-times',
+  style: {
+    color: 'white'
+  }
+}
+
 
 class App extends React.Component {
   constructor() {
@@ -93,6 +100,7 @@ class App extends React.Component {
 
   render() {
 
+    
 
     return (
       <div className="App">

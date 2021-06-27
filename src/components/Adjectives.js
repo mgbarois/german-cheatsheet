@@ -286,14 +286,14 @@ const Articles = () => {
                                         <tr>
                                             <td>N</td>
                                             <td>ein klein<span className="infl">es</span> Kaninchen</td>
-                                            <td>ein klein<span className='infl'>en</span> Kaninchen</td>
+                                            <td>ein klein<span className='infl'>es</span> Kaninchen</td>
                                             <td>einem klein<span className='infl'>en</span> Kaninchen</td>
                                         </tr>
                                         <tr>
                                             <td>P</td>
-                                            <td>eine klein<span className='infl'>en</span> Vögel</td>
-                                            <td>einen klein<span className='infl'>en</span> Vögel</td>
-                                            <td>einen klein<span className='infl'>en</span> Vögel<span className="infl">n</span></td>
+                                            <td>meine klein<span className='infl'>en</span> Vögel</td>
+                                            <td>meinen klein<span className='infl'>en</span> Vögel</td>
+                                            <td>meinen klein<span className='infl'>en</span> Vögel<span className="infl">n</span></td>
                                         </tr>
                                     </tbody>
                                 </Table>
@@ -337,7 +337,7 @@ const Articles = () => {
                                         <tr>
                                             <td>N</td>
                                             <td><span className="infl">es</span></td>
-                                            <td><span className='infl'>en</span></td>
+                                            <td><span className='infl'>es</span></td>
                                             <td><span className='infl'>en</span></td>
                                         </tr>
                                         <tr>

@@ -26,7 +26,6 @@ const Pronouns = () => {
                     <th>Nom.</th>
                     <th>Acc.</th>
                     <th>Dat.</th>
-                    <th>Gen.</th>
                   </tr>
 
                 </thead>
@@ -36,63 +35,54 @@ const Pronouns = () => {
                     <td>ich</td>
                     <td>mich</td>
                     <td>mir</td>
-                    <td></td>
                   </tr>
                   <tr className="sing">
                     <td>2</td>
                     <td>du</td>
                     <td>dich</td>
                     <td>dir</td>
-                    <td></td>
                   </tr>
                   <tr className="sing">
                     <td>M</td>
                     <td>er</td>
                     <td>ihn</td>
                     <td>ihm</td>
-                    <td></td>
                   </tr>
                   <tr className="sing">
                     <td>F</td>
                     <td>sie</td>
                     <td>sie</td>
                     <td>ihr</td>
-                    <td></td>
                   </tr>
                   <tr className="sing">
                     <td>N</td>
                     <td>es</td>
                     <td>es</td>
                     <td>ihm</td>
-                    <td></td>
                   </tr>
                   <tr className="plur">
                     <td>1</td>
                     <td>wir</td>
                     <td>uns</td>
                     <td>uns</td>
-                    <td></td>
                   </tr>
                   <tr className="plur">
                     <td>2</td>
                     <td>ihr</td>
                     <td>euch</td>
                     <td>euch</td>
-                    <td></td>
                   </tr>
                   <tr className="plur">
                     <td>3</td>
                     <td>sie</td>
                     <td>sie</td>
                     <td>ihnen</td>
-                    <td></td>
                   </tr>
                   <tr className="plur">
                     <td>*</td>
                     <td>Sie</td>
                     <td>Sie</td>
                     <td>Ihnen</td>
-                    <td></td>
                   </tr>
 
                 </tbody>

@@ -1,0 +1,194 @@
+
+Request URL: https://petapro-translate-v1.p.rapidapi.com/?query=Katze&langpair=de-en
+
+[
+    {
+        "id": 275965,
+        "l1_text": "Katze",
+        "l2_text": "cat",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Büsi, Hauskatze, Kater, Kätzin, Methcathinon, Pantoffeltiger, Raupe, Stubentieger, Stubentiger, Stubertieger",
+        "freq": 6021
+    },
+    {
+        "id": 1338270,
+        "l1_text": "Katze",
+        "l2_text": "kitten",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kater, Katzenbaby, Katzenjunges, Katzerl, Kätzchen, Kätzin, Kätzlein, Kätzli, Mieze, Pantoffeltiger, junge Katze",
+        "freq": 60
+    },
+    {
+        "id": 1338271,
+        "l1_text": "Katze",
+        "l2_text": "kitty",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kaffeekasse, Kater, Katzenbaby, Katzenjunges, Katzerl, Kätzchen, Kätzin, Kätzlein, Kätzli, Mieze, Pantoffeltiger, junge Katze",
+        "freq": 23
+    },
+    {
+        "id": 1338268,
+        "l1_text": "Katze",
+        "l2_text": "pussy",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Dose, Fotze, Fut, Hauskatze, Kater, Kätzin, Lustgrotte, Mietze, Mietzekatze, Mieze, Muschi, Möse, Pantoffeltiger, Pflaume, Scheide, Vagina",
+        "freq": 3
+    },
+    {
+        "id": 276078,
+        "l1_text": "Katze",
+        "l2_text": "tabby",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby cat, tomcat, trolley",
+        "synonyme2": "Tabby",
+        "freq": 2
+    },
+    {
+        "id": 1338272,
+        "l1_text": "Katze",
+        "l2_text": "pussy-cat",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kater, Kätzin, Miezekatze, Muschi, Pantoffeltiger",
+        "freq": 2
+    },
+    {
+        "id": 276074,
+        "l1_text": "Katze",
+        "l2_text": "she-cat",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "",
+        "freq": 1
+    },
+    {
+        "id": 276079,
+        "l1_text": "Katze",
+        "l2_text": "trolley",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat",
+        "synonyme2": "Bürorollwagen, Diplory, Draisine, Einkaufswagen, Fahrwerk, Gastronomie-Wagen, Handwagen, Karren, Laufkatze, Lore, Läufer, Oberleitungsfahrzeug, Rollwagen, S-bahn, Servierwagen, Spurwagen, Stangenstromabnehmer, Straßenbahn, Tram, Trambahn, Transportkarren, Transportwagen, Trolley, Trolleybus, Wagen",
+        "freq": 1
+    },
+    {
+        "id": 1338266,
+        "l1_text": "Katze",
+        "l2_text": "housecat",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kater, Kätzin, Pantoffeltiger",
+        "freq": 1
+    },
+    {
+        "id": 275967,
+        "l1_text": "Katze",
+        "l2_text": "crab",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Abtrift, Filzlaus, Katzfahrwerk, Krabbe, Krabben, Krebs, Krebse, Laufkatze, Nörgelei, Nörgler, Sackratte, Taschenkrebs, Winde",
+        "freq": 0
+    },
+    {
+        "id": 275968,
+        "l1_text": "Katze",
+        "l2_text": "moggy",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "",
+        "freq": 0
+    },
+    {
+        "id": 276076,
+        "l1_text": "Katze",
+        "l2_text": "Felis",
+        "wortart": "NOMEN",
+        "synonyme1": "carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "",
+        "freq": 0
+    },
+    {
+        "id": 276077,
+        "l1_text": "Katze",
+        "l2_text": "tabby cat",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tomcat, trolley",
+        "synonyme2": "Tabby",
+        "freq": 0
+    },
+    {
+        "id": 1338267,
+        "l1_text": "Katze",
+        "l2_text": "puss",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Dose, Fotze, Fresse, Fut, Kater, Kätzin, Lustgrotte, Miezchen, Muschi, Möse, Pantoffeltiger, Pflaume, Scheide, Vagina",
+        "freq": 0
+    },
+    {
+        "id": 1338269,
+        "l1_text": "Katze",
+        "l2_text": "malkin",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kater, Kätzin, Pantoffeltiger",
+        "freq": 0
+    },
+    {
+        "id": 1338273,
+        "l1_text": "Katze",
+        "l2_text": "mouser",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kater, Kätzin, Pantoffeltiger",
+        "freq": 0
+    },
+    {
+        "id": 1338274,
+        "l1_text": "Katze",
+        "l2_text": "tomcat",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, trolley",
+        "synonyme2": "Kater, Kätzin, Pantoffeltiger, Schürzenjäger",
+        "freq": 0
+    },
+    {
+        "id": 1338275,
+        "l1_text": "Katze",
+        "l2_text": "grimalkin",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Kater, Kätzin, Pantoffeltiger",
+        "freq": 0
+    },
+    {
+        "id": 1743561,
+        "l1_text": "Katze",
+        "l2_text": "carriage",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carrier, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Abfuhr, Anfuhr, Beförderung, Bettsupport, Drehbanksupport, Drehsupport, Fracht, Gefährt, Gütertransport, Haltung, Karren, Kutsche, Lafette, Meßschlitten, Personenwagen, Rollwagen, Schlitten, Schreibmaschinenwagen, Schreibwagen, Transport, Wagen, Wagenvorschub, Waggon, Wagon",
+        "freq": 0
+    },
+    {
+        "id": 1743562,
+        "l1_text": "Katze",
+        "l2_text": "carrier",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, cat, crab, grimalkin, hand truck, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Ausscheider, Bazillenträger, Beförderungsunternehmer, Beschleuniger, Betreiber, Bote, Briefträger, Camionneur, Carrier, Carriertaube, Drehherz, Fadenführer, Fluggesellschaft, Frachtführer, Fuhrunternehmer, Färbebeschleuniger, Förderband, Gepäckträger, Herz, Karrier, Karriertaube, Keimträger, Kontaktperson, Kran, Kübel, Ladungsträger, Lastkraftwagenhalter, Lastwagenhalter, Mitnehmer, Postbote, Rollfuhrunternehmer, Rollwagen, Schlitten, Spediteur, T, Traeger, Traegerelement, Traegerpartikelchen, Tragbügel, Tragflansch, Transporteur, Transporteurin, Transportmittel, Transportunternehmer, Träger, Trägerschwingung, Trägersignal, Trägerstoff, Trägersubstanz, Trägerwelle, Verkehrsunternehmen, Verkehrsunternehmer, Überträger",
+        "freq": 0
+    },
+    {
+        "id": 1743563,
+        "l1_text": "Katze",
+        "l2_text": "hand truck",
+        "wortart": "NOMEN",
+        "synonyme1": "Felis, carriage, carrier, cat, crab, grimalkin, housecat, kitten, kitty, malkin, moggy, mouser, puss, pussy, pussy-cat, she-cat, tabby, tabby cat, tomcat, trolley",
+        "synonyme2": "Laufkatze, Rollwagen, Sackkarre, Sackkarren, Schlitten, Stechkarre",
+        "freq": 0
+    }
+]
